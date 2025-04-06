@@ -1,0 +1,2378 @@
+[
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1980",
+      "Annual_emission": "18.050495"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1981",
+      "Annual_emission": "17.292418"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1982",
+      "Annual_emission": "16.485767"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1983",
+      "Annual_emission": "16.068346"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1984",
+      "Annual_emission": "16.56514"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1985",
+      "Annual_emission": "16.265327"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1986",
+      "Annual_emission": "15.440365"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1987",
+      "Annual_emission": "16.238403"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1988",
+      "Annual_emission": "16.921797"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1989",
+      "Annual_emission": "16.91458"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1990",
+      "Annual_emission": "16.481619"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1991",
+      "Annual_emission": "15.973068"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1992",
+      "Annual_emission": "16.263006"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1993",
+      "Annual_emission": "16.09954"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1994",
+      "Annual_emission": "16.421047"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1995",
+      "Annual_emission": "16.681198"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1996",
+      "Annual_emission": "17.056643"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1997",
+      "Annual_emission": "17.366526"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1998",
+      "Annual_emission": "17.462456"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "1999",
+      "Annual_emission": "17.7737"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2000",
+      "Annual_emission": "18.330475"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2001",
+      "Annual_emission": "17.888384"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2002",
+      "Annual_emission": "17.875952"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2003",
+      "Annual_emission": "18.242983"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2004",
+      "Annual_emission": "18.024103"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2005",
+      "Annual_emission": "17.658808"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2006",
+      "Annual_emission": "17.343943"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2007",
+      "Annual_emission": "17.886063"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2008",
+      "Annual_emission": "17.213322"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2009",
+      "Annual_emission": "16.04697"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2010",
+      "Annual_emission": "16.22177"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2011",
+      "Annual_emission": "16.301926"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2012",
+      "Annual_emission": "16.156374"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2013",
+      "Annual_emission": "16.117844"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2014",
+      "Annual_emission": "15.896746"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2015",
+      "Annual_emission": "15.728835"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2016",
+      "Annual_emission": "15.373321"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2017",
+      "Annual_emission": "15.474767"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2018",
+      "Annual_emission": "15.526985"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2019",
+      "Annual_emission": "15.404442"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2020",
+      "Annual_emission": "13.795006"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2021",
+      "Annual_emission": "14.050835"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2022",
+      "Annual_emission": "14.18325"
+  },
+  {
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": "2023",
+      "Annual_emission": "13.977394"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1980",
+      "Annual_emission": "1.5200888"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1981",
+      "Annual_emission": "1.4798603"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1982",
+      "Annual_emission": "1.5850471"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1983",
+      "Annual_emission": "1.6463653"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1984",
+      "Annual_emission": "1.7673312"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1985",
+      "Annual_emission": "1.8853257"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1986",
+      "Annual_emission": "1.9533491"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1987",
+      "Annual_emission": "2.0595717"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1988",
+      "Annual_emission": "2.175213"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1989",
+      "Annual_emission": "2.1725519"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1990",
+      "Annual_emission": "2.1540327"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1991",
+      "Annual_emission": "2.2259324"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1992",
+      "Annual_emission": "2.3052905"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1993",
+      "Annual_emission": "2.4401822"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1994",
+      "Annual_emission": "2.5671885"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1995",
+      "Annual_emission": "2.755138"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1996",
+      "Annual_emission": "2.8505082"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1997",
+      "Annual_emission": "2.8325534"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1998",
+      "Annual_emission": "2.6898472"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "1999",
+      "Annual_emission": "2.822838"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2000",
+      "Annual_emission": "2.8743546"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2001",
+      "Annual_emission": "2.9158025"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2002",
+      "Annual_emission": "3.1884"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2003",
+      "Annual_emission": "3.7397096"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2004",
+      "Annual_emission": "4.0068736"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2005",
+      "Annual_emission": "4.4900646"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2006",
+      "Annual_emission": "4.927211"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2007",
+      "Annual_emission": "5.2673674"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2008",
+      "Annual_emission": "5.624066"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2009",
+      "Annual_emission": "5.8777986"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2010",
+      "Annual_emission": "6.378234"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2011",
+      "Annual_emission": "7.0077763"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2012",
+      "Annual_emission": "7.140667"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2013",
+      "Annual_emission": "7.219921"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2014",
+      "Annual_emission": "7.19784"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2015",
+      "Annual_emission": "7.0648346"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2016",
+      "Annual_emission": "6.953239"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2017",
+      "Annual_emission": "7.084865"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2018",
+      "Annual_emission": "7.2818375"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2019",
+      "Annual_emission": "7.5264"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2020",
+      "Annual_emission": "7.6471825"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2021",
+      "Annual_emission": "8.025529"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2022",
+      "Annual_emission": "7.9642863"
+  },
+  {
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": "2023",
+      "Annual_emission": "8.366814"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1980",
+      "Annual_emission": "10.029868"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1981",
+      "Annual_emission": "9.458792"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1982",
+      "Annual_emission": "9.201722"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1983",
+      "Annual_emission": "9.071424"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1984",
+      "Annual_emission": "9.133937"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1985",
+      "Annual_emission": "9.251053"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1986",
+      "Annual_emission": "9.1897955"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1987",
+      "Annual_emission": "9.241755"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1988",
+      "Annual_emission": "9.120197"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1989",
+      "Annual_emission": "9.175288"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1990",
+      "Annual_emission": "9.214598"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1991",
+      "Annual_emission": "9.027587"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1992",
+      "Annual_emission": "8.696673"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1993",
+      "Annual_emission": "8.507024"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1994",
+      "Annual_emission": "8.441406"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1995",
+      "Annual_emission": "8.537151"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1996",
+      "Annual_emission": "8.729384"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1997",
+      "Annual_emission": "8.564151"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1998",
+      "Annual_emission": "8.541549"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "1999",
+      "Annual_emission": "8.408397"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2000",
+      "Annual_emission": "8.419039"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2001",
+      "Annual_emission": "8.532679"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2002",
+      "Annual_emission": "8.508337"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2003",
+      "Annual_emission": "8.659959"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2004",
+      "Annual_emission": "8.645041"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2005",
+      "Annual_emission": "8.596072"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2006",
+      "Annual_emission": "8.61288"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2007",
+      "Annual_emission": "8.472536"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2008",
+      "Annual_emission": "8.26802"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2009",
+      "Annual_emission": "7.574756"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2010",
+      "Annual_emission": "7.7711906"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2011",
+      "Annual_emission": "7.536311"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2012",
+      "Annual_emission": "7.3700943"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2013",
+      "Annual_emission": "7.1770205"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2014",
+      "Annual_emission": "6.8592596"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2015",
+      "Annual_emission": "6.9715643"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2016",
+      "Annual_emission": "6.952579"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2017",
+      "Annual_emission": "6.994051"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2018",
+      "Annual_emission": "6.8305554"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2019",
+      "Annual_emission": "6.492865"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2020",
+      "Annual_emission": "5.8676276"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2021",
+      "Annual_emission": "6.256661"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2022",
+      "Annual_emission": "6.1010814"
+  },
+  {
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": "2023",
+      "Annual_emission": "5.571019"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1980",
+      "Annual_emission": "0.42439717"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1981",
+      "Annual_emission": "0.44758826"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1982",
+      "Annual_emission": "0.45172"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1983",
+      "Annual_emission": "0.4776402"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1984",
+      "Annual_emission": "0.4789657"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1985",
+      "Annual_emission": "0.5145839"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1986",
+      "Annual_emission": "0.5391612"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1987",
+      "Annual_emission": "0.5628946"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1988",
+      "Annual_emission": "0.59430265"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1989",
+      "Annual_emission": "0.6390376"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1990",
+      "Annual_emission": "0.668225"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1991",
+      "Annual_emission": "0.6961713"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1992",
+      "Annual_emission": "0.7258895"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1993",
+      "Annual_emission": "0.73450357"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1994",
+      "Annual_emission": "0.75870293"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1995",
+      "Annual_emission": "0.7918992"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1996",
+      "Annual_emission": "0.8407051"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1997",
+      "Annual_emission": "0.8587551"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1998",
+      "Annual_emission": "0.85972553"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "1999",
+      "Annual_emission": "0.9253892"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2000",
+      "Annual_emission": "0.93243545"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2001",
+      "Annual_emission": "0.92821974"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2002",
+      "Annual_emission": "0.94036025"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2003",
+      "Annual_emission": "0.95606565"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2004",
+      "Annual_emission": "0.9980951"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2005",
+      "Annual_emission": "1.034569"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2006",
+      "Annual_emission": "1.1019762"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2007",
+      "Annual_emission": "1.1695087"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2008",
+      "Annual_emission": "1.2330484"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2009",
+      "Annual_emission": "1.3155314"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2010",
+      "Annual_emission": "1.348904"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2011",
+      "Annual_emission": "1.3992052"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2012",
+      "Annual_emission": "1.5060124"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2013",
+      "Annual_emission": "1.53963"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2014",
+      "Annual_emission": "1.6371113"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2015",
+      "Annual_emission": "1.6823632"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2016",
+      "Annual_emission": "1.7520503"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2017",
+      "Annual_emission": "1.7847193"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2018",
+      "Annual_emission": "1.886328"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2019",
+      "Annual_emission": "1.8810879"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2020",
+      "Annual_emission": "1.726452"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2021",
+      "Annual_emission": "1.8909733"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2022",
+      "Annual_emission": "1.9861934"
+  },
+  {
+      "Entity": "India",
+      "Code": "IND",
+      "Year": "2023",
+      "Annual_emission": "2.129469"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1980",
+      "Annual_emission": "0.38638392"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1981",
+      "Annual_emission": "0.39268714"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1982",
+      "Annual_emission": "0.27242714"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1983",
+      "Annual_emission": "0.2608219"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1984",
+      "Annual_emission": "0.23302205"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1985",
+      "Annual_emission": "0.19609773"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1986",
+      "Annual_emission": "0.20888051"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1987",
+      "Annual_emission": "0.2507045"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1988",
+      "Annual_emission": "0.22401571"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1989",
+      "Annual_emission": "0.23452875"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1990",
+      "Annual_emission": "0.25418824"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1991",
+      "Annual_emission": "0.20444183"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1992",
+      "Annual_emission": "0.22706711"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1993",
+      "Annual_emission": "0.25248832"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1994",
+      "Annual_emission": "0.2534431"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1995",
+      "Annual_emission": "0.28376904"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1996",
+      "Annual_emission": "0.33983287"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1997",
+      "Annual_emission": "0.29215634"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1998",
+      "Annual_emission": "0.3447668"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "1999",
+      "Annual_emission": "0.33869702"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2000",
+      "Annual_emission": "0.339682"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2001",
+      "Annual_emission": "0.29342556"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2002",
+      "Annual_emission": "0.2418248"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2003",
+      "Annual_emission": "0.19901927"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2004",
+      "Annual_emission": "0.21864037"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2005",
+      "Annual_emission": "0.23898837"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2006",
+      "Annual_emission": "0.2592006"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2007",
+      "Annual_emission": "0.25826955"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2008",
+      "Annual_emission": "0.26099798"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2009",
+      "Annual_emission": "0.3054444"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2010",
+      "Annual_emission": "0.2923937"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2011",
+      "Annual_emission": "0.3145013"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2012",
+      "Annual_emission": "0.2849444"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2013",
+      "Annual_emission": "0.29915392"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2014",
+      "Annual_emission": "0.31555018"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2015",
+      "Annual_emission": "0.36099023"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2016",
+      "Annual_emission": "0.3767061"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2017",
+      "Annual_emission": "0.35996383"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2018",
+      "Annual_emission": "0.37520558"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2019",
+      "Annual_emission": "0.3866188"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2020",
+      "Annual_emission": "0.4209682"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2021",
+      "Annual_emission": "0.4192893"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2022",
+      "Annual_emission": "0.39440423"
+  },
+  {
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": "2023",
+      "Annual_emission": "0.38907528"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1980",
+      "Annual_emission": "7.730577"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1981",
+      "Annual_emission": "8.417369"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1982",
+      "Annual_emission": "8.870167"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1983",
+      "Annual_emission": "8.915952"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1984",
+      "Annual_emission": "9.311507"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1985",
+      "Annual_emission": "9.242065"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1986",
+      "Annual_emission": "9.134669"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1987",
+      "Annual_emission": "8.8052025"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1988",
+      "Annual_emission": "8.904598"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1989",
+      "Annual_emission": "8.59761"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1990",
+      "Annual_emission": "7.679972"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1991",
+      "Annual_emission": "7.8206544"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1992",
+      "Annual_emission": "7.099446"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1993",
+      "Annual_emission": "7.3987613"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1994",
+      "Annual_emission": "7.6969476"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1995",
+      "Annual_emission": "8.120362"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1996",
+      "Annual_emission": "8.060904"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1997",
+      "Annual_emission": "8.435503"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1998",
+      "Annual_emission": "8.161634"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "1999",
+      "Annual_emission": "8.022434"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2000",
+      "Annual_emission": "8.021823"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2001",
+      "Annual_emission": "7.8126745"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2002",
+      "Annual_emission": "7.4245625"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2003",
+      "Annual_emission": "8.338284"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2004",
+      "Annual_emission": "9.171136"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2005",
+      "Annual_emission": "8.409798"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2006",
+      "Annual_emission": "8.935709"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2007",
+      "Annual_emission": "9.203596"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2008",
+      "Annual_emission": "9.678217"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2009",
+      "Annual_emission": "9.173338"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2010",
+      "Annual_emission": "8.845317"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2011",
+      "Annual_emission": "8.791509"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2012",
+      "Annual_emission": "8.533717"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2013",
+      "Annual_emission": "8.388016"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2014",
+      "Annual_emission": "8.489366"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2015",
+      "Annual_emission": "7.868855"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2016",
+      "Annual_emission": "7.982774"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2017",
+      "Annual_emission": "7.6341534"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2018",
+      "Annual_emission": "7.4144187"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2019",
+      "Annual_emission": "7.7887297"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2020",
+      "Annual_emission": "7.167264"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2021",
+      "Annual_emission": "6.9252014"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2022",
+      "Annual_emission": "6.4976277"
+  },
+  {
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": "2023",
+      "Annual_emission": "6.357822"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1980",
+      "Annual_emission": "10.288091"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1981",
+      "Annual_emission": "9.955751"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1982",
+      "Annual_emission": "9.739092"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1983",
+      "Annual_emission": "9.683387"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1984",
+      "Annual_emission": "9.372823"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1985",
+      "Annual_emission": "9.886288"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1986",
+      "Annual_emission": "10.018232"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1987",
+      "Annual_emission": "10.049351"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1988",
+      "Annual_emission": "10.000497"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1989",
+      "Annual_emission": "10.170591"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1990",
+      "Annual_emission": "10.4927225"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1991",
+      "Annual_emission": "10.588317"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1992",
+      "Annual_emission": "10.288521"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1993",
+      "Annual_emission": "10.017321"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1994",
+      "Annual_emission": "9.896297"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1995",
+      "Annual_emission": "9.735405"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1996",
+      "Annual_emission": "10.0647545"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1997",
+      "Annual_emission": "9.62765"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1998",
+      "Annual_emission": "9.697672"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "1999",
+      "Annual_emission": "9.545588"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2000",
+      "Annual_emission": "9.635275"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2001",
+      "Annual_emission": "9.748509"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2002",
+      "Annual_emission": "9.40991"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2003",
+      "Annual_emission": "9.555585"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2004",
+      "Annual_emission": "9.530167"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2005",
+      "Annual_emission": "9.412128"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2006",
+      "Annual_emission": "9.301154"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2007",
+      "Annual_emission": "9.09334"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2008",
+      "Annual_emission": "8.785364"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2009",
+      "Annual_emission": "7.904937"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2010",
+      "Annual_emission": "8.124633"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2011",
+      "Annual_emission": "7.3959785"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2012",
+      "Annual_emission": "7.62153"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2013",
+      "Annual_emission": "7.4175463"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2014",
+      "Annual_emission": "6.764833"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2015",
+      "Annual_emission": "6.461413"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2016",
+      "Annual_emission": "6.061766"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2017",
+      "Annual_emission": "5.837845"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2018",
+      "Annual_emission": "5.6886244"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2019",
+      "Annual_emission": "5.4350777"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2020",
+      "Annual_emission": "4.84416"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2021",
+      "Annual_emission": "5.091122"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2022",
+      "Annual_emission": "4.6030793"
+  },
+  {
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": "2023",
+      "Annual_emission": "4.4428244"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1980",
+      "Annual_emission": "20.92102"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1981",
+      "Annual_emission": "20.183939"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1982",
+      "Annual_emission": "18.959597"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1983",
+      "Annual_emission": "18.69184"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1984",
+      "Annual_emission": "19.47947"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1985",
+      "Annual_emission": "19.251644"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1986",
+      "Annual_emission": "19.11719"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1987",
+      "Annual_emission": "19.605083"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1988",
+      "Annual_emission": "20.334122"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1989",
+      "Annual_emission": "20.474888"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1990",
+      "Annual_emission": "20.21111"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1991",
+      "Annual_emission": "19.740822"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1992",
+      "Annual_emission": "19.931076"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1993",
+      "Annual_emission": "20.076859"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1994",
+      "Annual_emission": "20.206358"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1995",
+      "Annual_emission": "20.227972"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1996",
+      "Annual_emission": "20.722765"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1997",
+      "Annual_emission": "20.800028"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1998",
+      "Annual_emission": "20.763779"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "1999",
+      "Annual_emission": "20.81858"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2000",
+      "Annual_emission": "21.351597"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2001",
+      "Annual_emission": "20.781439"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2002",
+      "Annual_emission": "20.712757"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2003",
+      "Annual_emission": "20.731209"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2004",
+      "Annual_emission": "20.877535"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2005",
+      "Annual_emission": "20.736685"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2006",
+      "Annual_emission": "20.26138"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2007",
+      "Annual_emission": "20.308895"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2008",
+      "Annual_emission": "19.395718"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2009",
+      "Annual_emission": "17.79321"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2010",
+      "Annual_emission": "18.259064"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2011",
+      "Annual_emission": "17.656881"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2012",
+      "Annual_emission": "16.852184"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2013",
+      "Annual_emission": "17.119564"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2014",
+      "Annual_emission": "17.110548"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2015",
+      "Annual_emission": "16.485851"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2016",
+      "Annual_emission": "15.957657"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2017",
+      "Annual_emission": "15.689611"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2018",
+      "Annual_emission": "16.050419"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2019",
+      "Annual_emission": "15.578152"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2020",
+      "Annual_emission": "13.889587"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2021",
+      "Annual_emission": "14.793602"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2022",
+      "Annual_emission": "14.870761"
+  },
+  {
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": "2023",
+      "Annual_emission": "14.299026"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1980",
+      "Annual_emission": "4.3818007"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1981",
+      "Annual_emission": "4.20045"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1982",
+      "Annual_emission": "4.0911407"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1983",
+      "Annual_emission": "4.043131"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1984",
+      "Annual_emission": "4.1085486"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1985",
+      "Annual_emission": "4.1717267"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1986",
+      "Annual_emission": "4.157858"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1987",
+      "Annual_emission": "4.208147"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1988",
+      "Annual_emission": "4.295053"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1989",
+      "Annual_emission": "4.2768035"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1990",
+      "Annual_emission": "4.266109"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1991",
+      "Annual_emission": "4.278877"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1992",
+      "Annual_emission": "4.091575"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1993",
+      "Annual_emission": "4.069678"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1994",
+      "Annual_emission": "4.051227"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1995",
+      "Annual_emission": "4.0862265"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1996",
+      "Annual_emission": "4.152334"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1997",
+      "Annual_emission": "4.118613"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1998",
+      "Annual_emission": "4.0458646"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "1999",
+      "Annual_emission": "4.081738"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2000",
+      "Annual_emission": "4.1334705"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2001",
+      "Annual_emission": "4.1097608"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2002",
+      "Annual_emission": "4.146101"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2003",
+      "Annual_emission": "4.3096466"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2004",
+      "Annual_emission": "4.4027133"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2005",
+      "Annual_emission": "4.4959054"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2006",
+      "Annual_emission": "4.5909643"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2007",
+      "Annual_emission": "4.666746"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2008",
+      "Annual_emission": "4.6861563"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2009",
+      "Annual_emission": "4.549688"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2010",
+      "Annual_emission": "4.750381"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2011",
+      "Annual_emission": "4.852329"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2012",
+      "Annual_emission": "4.8603024"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2013",
+      "Annual_emission": "4.8412857"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2014",
+      "Annual_emission": "4.802484"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2015",
+      "Annual_emission": "4.7392993"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2016",
+      "Annual_emission": "4.685639"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2017",
+      "Annual_emission": "4.707258"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2018",
+      "Annual_emission": "4.751732"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2019",
+      "Annual_emission": "4.7500806"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2020",
+      "Annual_emission": "4.453724"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2021",
+      "Annual_emission": "4.650446"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2022",
+      "Annual_emission": "4.649288"
+  },
+  {
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": "2023",
+      "Annual_emission": "4.6703916"
+  }
+]

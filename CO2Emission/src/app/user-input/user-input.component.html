@@ -1,0 +1,12 @@
+<p>user-input works!</p>
+<form (ngSubmit)="onSubmit()">
+  <label for="countries">Select Country:</label>
+  <select name="countries" id="countries" [(ngModel)]="country" (change)="update()">
+     @for(country of countries; track $index) {
+      <p>{{country}}</p>
+      <option value={{country}}>{{ country }}</option>
+      }
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
