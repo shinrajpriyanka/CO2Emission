@@ -16,10 +16,7 @@ export class UserInputComponent {
   }[];
   @Input() countries?: String[];
   @Output() selectedValue = new EventEmitter();
-  country?: string;
-  onSubmit() {
-    console.log(this.data);
-  }
+  country?: String;
   update() {
     this.selectedValue?.emit(this.country);
   }

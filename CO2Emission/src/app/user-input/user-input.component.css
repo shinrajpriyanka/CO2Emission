@@ -1,0 +1,12 @@
+label {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: serif;
+}
+select {
+  font-size: 16px;
+  font-family: serif;
+  height: 40px;
+  border: ridge;
+  font-weight: 600;
+}

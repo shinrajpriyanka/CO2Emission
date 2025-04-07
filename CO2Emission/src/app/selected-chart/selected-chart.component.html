@@ -1,11 +1,15 @@
-<p>selected-chart works!</p>
-<canvas
-  baseChart
-  width="400"
-  height="400"
-  [type]="'line'"
-  [data]="lineChartData"
-  [options]="lineChartOptions"
-  [legend]="lineChartLegend"
->
-</canvas>
+<div class="chart-wrapper">
+  @if (country()) {
+    <canvas
+    baseChart
+    width="400"
+    height="400"
+    [type]="'line'"
+    [data]="lineChartData"
+    [options]="lineChartOptions"
+    [legend]="lineChartLegend"
+  >
+  </canvas>
+  }
+
+</div>

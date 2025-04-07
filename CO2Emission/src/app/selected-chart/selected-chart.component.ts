@@ -30,7 +30,7 @@ export class SelectedChartComponent {
         data: this.dataset,
         label: 'Series A',
         fill: true,
-        tension: 0.05,
+        tension: 0.5,
         borderColor: 'black',
         backgroundColor: 'rgba(255,0,0,0.3)'
       }
@@ -52,12 +52,10 @@ export class SelectedChartComponent {
 
             }
         }
-      }
+      },
+      responsive: false
   };
   public lineChartLegend = true;
-  ngOnInit(): void {
-    console.log(this.country())
-  }
   ngOnChanges(changes: SimpleChanges): void {
     let selectedCountry= this.country();
     for(let data of this.data) {
@@ -65,7 +63,6 @@ export class SelectedChartComponent {
         this.dataset.push(data.Annual_emission);
       }
     }
-    console.log(this.dataset);
     this.lineChartData = {
       labels: Array.from(new Set( this.data?.map(obj => obj.Year))),
       datasets: [
@@ -73,9 +70,9 @@ export class SelectedChartComponent {
           data: this.dataset,
           label: 'Series A',
           fill: true,
-          tension: 0.05,
+          tension: 0.5,
           borderColor: 'black',
-          backgroundColor: 'rgba(255,0,0,0.3)'
+          backgroundColor: 'greenyellow'
         }
       ]
     }

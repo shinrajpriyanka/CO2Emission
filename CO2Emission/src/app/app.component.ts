@@ -28,14 +28,8 @@ export class AppComponent {
   ngOnInit(): void {
     this.uniqueCountries = Array.from(new Set( this.data?.map(obj => obj.Entity)));
     this.year = Array.from(new Set( this.data?.map(obj => obj.Year)));
-    // for(let country of this.data) {
-    //   if(country.Entity == "Afghanistan") {
-    //     this.dataset.push(country.Annual_emission);
-    //   }
-    // }
   }
   onChangeOfCountry(data: string) {
       this.country = data;
-      console.log(this.country)
   }
 }
