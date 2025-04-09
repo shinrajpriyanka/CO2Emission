@@ -1,2 +1,5 @@
 <app-user-input [data]="data" [countries]="uniqueCountries" (selectedValue)="onChangeOfCountry($event)" (selectedChart)="onChangeOfFormat($event)" (selectedTable)="onChangeOfTable($event)"></app-user-input>
 <app-selected-chart [uniqueCountries]="uniqueCountries" [country]="country" [selectChart]="selectChart" [selectTable]="selectTable"></app-selected-chart>
+<p>Per capita emissions represent the emissions of an average person in a country or region - they are calculated as the total emissions divided by population. </p>
+<p>This data is based on territorial emissions, which do not account for emissions embedded in traded goods.</p>
+<p>Emissions from international aviation and shipping are not included in any country or region's emissions. They are only included in the global total emissions.</p>

@@ -30,7 +30,7 @@ export class SelectedChartComponent {
     datasets: []
   };
   public lineChartOptions: any = {
-    responsive: false
+    responsive: true
   };
   public lineChartLegend = true;
   ngOnChanges(changes: SimpleChanges): void {
@@ -41,7 +41,6 @@ export class SelectedChartComponent {
     this.dataset = [];
     for(let data of this.data) {
       if(data.Entity === this.country()) {
-        console.log(this.country())
         this.dataset.push(data.Annual_emission);
       }
     }

@@ -4,3 +4,15 @@ body {
   background: linear-gradient(250deg, #460845, transparent);
   color: white;
 }
+@keyframes para {
+  0% {opacity: 0.1; margin-left: 0;}
+  10% { opacity: 0.3; margin-left: 10%;}
+  60% { opacity: 0.7; margin-left:26%;}
+  100% { opacity: 1; margin-left: auto;}
+}
+p {
+  width: 48%;
+  line-height: 1.6;
+  animation: para 3s ease-in-out;
+  margin: 0 auto;
+}

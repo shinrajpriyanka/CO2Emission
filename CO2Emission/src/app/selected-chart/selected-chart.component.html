@@ -1,16 +1,16 @@
-<div class="chart-wrapper">
-  @if (country() && selectChart) {
+@if (country() && selectChart) {
+  <div class="chart-wrapper" style="position: relative; height:40vh; width:80vw">
     <canvas
     baseChart
-    width="516"
-    height="516"
     [type]="'line'"
     [data]="lineChartData"
     [options]="lineChartOptions"
     [legend]="lineChartLegend"
-  >
-  </canvas>
+    >
+    </canvas>
+  </div>
   }
+
 
   @if (country() && selectTable) {
     <table>
@@ -37,4 +37,4 @@
   </table>
   }
 
-</div>
+

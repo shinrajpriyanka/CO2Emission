@@ -1,12 +1,21 @@
+@keyframes tableAnimation {
+  0% {opacity: 0.1}
+  10% { opacity: 0.4}
+  60% { opacity: 0.8}
+  100% { opacity: 1}
+}
 canvas {
   margin: 0 0;
+  animation: tableAnimation 3s ease-in-out;
 }
 .chart-wrapper {
   display: inline-flex;
   justify-content: space-around;
 }
 table {
+  margin: 0 auto;
   border: 2px solid lightblue;
+  animation: tableAnimation 3s ease-in-out;
 }
 td, th {
   border: 2px solid lightblue;
