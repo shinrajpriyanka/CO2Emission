@@ -1,15 +1,40 @@
 <div class="chart-wrapper">
-  @if (country()) {
+  @if (country() && selectChart) {
     <canvas
     baseChart
-    width="400"
-    height="400"
+    width="516"
+    height="516"
     [type]="'line'"
     [data]="lineChartData"
     [options]="lineChartOptions"
     [legend]="lineChartLegend"
   >
   </canvas>
+  }
+
+  @if (country() && selectTable) {
+    <table>
+      <caption>The CO2 emission for {{country()}} from year 1980 to 2022</caption>
+      <thead>
+        <tr>
+          <th>Number</th>
+          <th>Year</th>
+          <th>Emission</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for(data of tableValue; track $index;) {
+          @if($index%6 === 0) {
+            <tr>
+              @if($first) {<td>{{$index + 1}}</td>}
+              @else {<td>{{($index/6)+1}}</td>}
+              <td>{{data.year}}</td>
+              <td>{{data.emission}}</td>
+            </tr>
+          }
+        }
+      </tbody>
+  </table>
   }
 
 </div>

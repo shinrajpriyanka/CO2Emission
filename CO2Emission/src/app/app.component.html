@@ -1,2 +1,2 @@
-<app-user-input [data]="data" [countries]="uniqueCountries" (selectedValue)="onChangeOfCountry($event)"></app-user-input>
-<app-selected-chart [uniqueCountries]="uniqueCountries" [country]="country"></app-selected-chart>
+<app-user-input [data]="data" [countries]="uniqueCountries" (selectedValue)="onChangeOfCountry($event)" (selectedChart)="onChangeOfFormat($event)" (selectedTable)="onChangeOfTable($event)"></app-user-input>
+<app-selected-chart [uniqueCountries]="uniqueCountries" [country]="country" [selectChart]="selectChart" [selectTable]="selectTable"></app-selected-chart>

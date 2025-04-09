@@ -16,8 +16,18 @@ export class UserInputComponent {
   }[];
   @Input() countries?: String[];
   @Output() selectedValue = new EventEmitter();
+  @Output() selectedChart = new EventEmitter();
+  @Output() selectedTable = new EventEmitter();
   country?: String;
+  selectChart: boolean = false;
+  selectTable: boolean = false;
+  ngOnInit(): void {
+    this.selectChart = false;
+    this.selectTable = false;
+  }
   update() {
     this.selectedValue?.emit(this.country);
+    this.selectedChart?.emit(this.selectChart);
+    this.selectedTable?.emit(this.selectTable);
   }
 }

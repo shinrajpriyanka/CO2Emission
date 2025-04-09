@@ -25,11 +25,19 @@ export class AppComponent {
 
   dataset: any = [];
   country?: string;
+  selectChart: boolean = false;
+  selectTable: boolean = false;
   ngOnInit(): void {
     this.uniqueCountries = Array.from(new Set( this.data?.map(obj => obj.Entity)));
     this.year = Array.from(new Set( this.data?.map(obj => obj.Year)));
   }
   onChangeOfCountry(data: string) {
       this.country = data;
+  }
+  onChangeOfFormat(format: boolean) {
+    this.selectChart = format;
+  }
+  onChangeOfTable(format: boolean) {
+    this.selectTable = format;
   }
 }

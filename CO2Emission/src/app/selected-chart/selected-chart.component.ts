@@ -1,7 +1,6 @@
 import { Component, Input, input, SimpleChanges } from '@angular/core';
 import { BaseChartDirective } from 'ng2-charts';
 import { ChartConfiguration, ChartOptions, ChartType, } from "chart.js";
-import Chart from 'chart.js/auto';
 import jsonData from '../data.json';
 
 
@@ -15,7 +14,10 @@ import jsonData from '../data.json';
 export class SelectedChartComponent {
   @Input() uniqueCountries? : String[];
   @Input() dataset: any = [];
+  @Input() selectTable: boolean = false;
+  @Input() selectChart: boolean = false;
   country = input<string>();
+  tableValue: {year:string, emission:string}[] = [];
   data: {
     Entity: string,
     Code: string,
@@ -24,42 +26,22 @@ export class SelectedChartComponent {
   }[]= jsonData;
 
   public lineChartData: ChartConfiguration<'line'>['data'] = {
-    labels: Array.from(new Set( this.data?.map(obj => obj.Year))),
-    datasets: [
-      {
-        data: this.dataset,
-        label: 'Series A',
-        fill: true,
-        tension: 0.5,
-        borderColor: 'black',
-        backgroundColor: 'rgba(255,0,0,0.3)'
-      }
-    ]
+    labels: [],
+    datasets: []
   };
   public lineChartOptions: any = {
-    scales : {
-      x: {
-        ticks: {
-        beginAtZero: true,
-            stepValue: 20,
-
-        }
-      },
-        y: {
-            ticks: {
-            beginAtZero: true,
-                stepValue: 4,
-
-            }
-        }
-      },
-      responsive: false
+    responsive: false
   };
   public lineChartLegend = true;
   ngOnChanges(changes: SimpleChanges): void {
-    let selectedCountry= this.country();
+    this.chartData();
+    this.tableData();
+  }
+  chartData() {
+    this.dataset = [];
     for(let data of this.data) {
-      if(data.Entity === selectedCountry) {
+      if(data.Entity === this.country()) {
+        console.log(this.country())
         this.dataset.push(data.Annual_emission);
       }
     }
@@ -75,6 +57,17 @@ export class SelectedChartComponent {
           backgroundColor: 'greenyellow'
         }
       ]
+    }
+  }
+  tableData() {
+    this.tableValue = [];
+    for(let data of this.data) {
+      if(data.Entity === this.country()) {
+        this.tableValue.push({
+          year: data.Year,
+          emission:data.Annual_emission
+        });
+      }
     }
   }
 }

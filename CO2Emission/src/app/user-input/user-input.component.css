@@ -10,3 +10,11 @@ select {
   border: ridge;
   font-weight: 600;
 }
+.checkbox-section {
+  display: flex;
+  align-items: center;
+}
+section {
+  display: flex;
+  justify-content: center;
+}

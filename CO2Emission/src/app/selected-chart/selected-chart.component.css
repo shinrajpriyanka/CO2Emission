@@ -1,3 +1,16 @@
 canvas {
-  margin: 0 auto;
+  margin: 0 0;
+}
+.chart-wrapper {
+  display: inline-flex;
+  justify-content: space-around;
+}
+table {
+  border: 2px solid lightblue;
+}
+td, th {
+  border: 2px solid lightblue;
+  height: 46px;
+  width: 180px;
+  border-radius: 5px;
 }
