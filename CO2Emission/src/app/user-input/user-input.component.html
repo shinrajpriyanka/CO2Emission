@@ -12,11 +12,11 @@
   <br/><br/>
   <section>
     <div class="checkbox-section">
-      <input type="checkbox" id="chartFormat" name="chartFormat" (change)="update()" [(ngModel)]="selectChart">
+      <input type="checkbox" id="chartFormat" name="chartFormat" (change)="updateChart()" [(ngModel)]="selectChart">
       <label for="chartFormat"> Graphical representation</label><br>
     </div>
     <div class="checkbox-section">
-      <input type="checkbox" id="tableFormat" name="tableFormat" (change)="update()" [(ngModel)]="selectTable">
+      <input type="checkbox" id="tableFormat" name="tableFormat" (change)="updateTable()" [(ngModel)]="selectTable">
       <label for="tableFormat"> Table representation</label><br>
     </div>
   </section>

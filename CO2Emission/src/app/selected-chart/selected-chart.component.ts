@@ -34,8 +34,12 @@ export class SelectedChartComponent {
   };
   public lineChartLegend = true;
   ngOnChanges(changes: SimpleChanges): void {
-    this.chartData();
-    this.tableData();
+    changes['selectChart'] ? this.chartData() : '';
+    changes['selectTable']  ? this.tableData(): '';
+    if(changes['country']) {
+      this.chartData();
+      this.tableData();
+    }
   }
   chartData() {
     this.dataset = [];

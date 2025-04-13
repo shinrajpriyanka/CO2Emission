@@ -27,7 +27,11 @@ export class UserInputComponent {
   }
   update() {
     this.selectedValue?.emit(this.country);
+  }
+  updateChart() {
     this.selectedChart?.emit(this.selectChart);
+  }
+  updateTable() {
     this.selectedTable?.emit(this.selectTable);
   }
 }
